@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HTML Estudo Básico"
-date:   2022-10-11 08:35:10 -0300
+date:   2020-08-25 08:35:10 -0300
 categories: html web
 ---
 # Estudo Básico de HTML
