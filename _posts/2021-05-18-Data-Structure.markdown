@@ -72,6 +72,7 @@ Arrays Provide: Organization, storage and access.
 A jagged array can have elements of different dimensions and sizes.
 
 Example:
+```
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 1 | 3 | 8 |
@@ -79,6 +80,7 @@ Example:
 | 9 | 0 |
 | 10| 11 | 4 | 20 | 50
 | 30|
+```
 
 This jagged array have 5 fixed rows and variable number of columns.
 
