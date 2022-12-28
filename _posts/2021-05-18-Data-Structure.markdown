@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Regex how to User"
+title:  "Data Structure"
 date:   2021-05-18 15:04:30 -0300
 categories: jekyll update
 ---
