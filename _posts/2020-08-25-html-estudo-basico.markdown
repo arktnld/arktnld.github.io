@@ -23,6 +23,7 @@ HTML é uma linguagem de marcação, chamado em inglês de tag, por esse motivo 
 <p>HTML usa tags para identificar seu conteudo. <em>Este text, por exemplo, é um <strong>paragrafo</strong></em></p>
 ```
 
+
 Este arquivo simple de HTML usa a tag `\<p>` para criar parágrafos, a tag `\<em>` pra criar ênfase e por ultimo a tag `<strong>` pra criar negrito. Algumas tags como **em** e **strong** podem ser colocadas dentro de outras, mas nem todas as tags permitem isso.
 
 ### Estado Atual do HTML
