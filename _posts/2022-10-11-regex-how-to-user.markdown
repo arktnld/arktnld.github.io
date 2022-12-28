@@ -130,7 +130,7 @@ Instructs quantifier to use a "lazy strategy" for making choices
 - Multiple choices can be daisy-chained
 - Group alternation expressions to keep them distinct
 
- >   /w(ei|ie)rd/ matches "weird" and "wierd"
+    /w(ei\|ie)rd/ matches "weird" and "wierd"
 
 ## Archors
 ^ start of string/line
