@@ -19,6 +19,7 @@ HTML é uma linguagem de marcação, chamado em inglês de tag, por esse motivo 
 ### Sintaxe Básica
 
 > syntax.html
+
 ```html
 <p>HTML usa tags para identificar seu conteudo. <em>Este text, por exemplo, é um <strong>paragrafo</strong></em></p>
 ```
@@ -66,6 +67,7 @@ O Doctype é supostamente usado para indicar ao sistema qual versão HTML você 
 Cada versão de HTML tem uma declaração Doctype diferente, a mais usada e mais simples é a declaração Doctype do HTML 5.
 
 #### Html5
+
 ```html
 <!DOCTYPE HTML>
 ```
